@@ -1,0 +1,22 @@
+
+p{
+
+	border: 15px solid yellow ;
+	padding: 30px;
+	background-color: white;
+	display: block;
+
+	
+}
+	.uno{
+		margin-right: 1000px;
+		text-align: center;
+
+
+	}
+	.dos{
+		margin-left: 600px;
+		margin-right: 400px;
+		text-align: left;
+
+	}
